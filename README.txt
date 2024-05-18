@@ -1,0 +1,1 @@
+To quickly close cmd.exe, right-click on the icon then tap "Close all windows"
